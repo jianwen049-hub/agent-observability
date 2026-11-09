@@ -1,0 +1,2 @@
+# stdlib-only; pinned empty extra for reproducibility tooling
+# (no third-party deps)
